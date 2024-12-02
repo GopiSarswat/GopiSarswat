@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate with data enthusiasts 
-- 📫 How to reach me ? Just Email me gopisaraswat4@gmail.com
+- 📫 How to reach me ? Just Email me gopisarswat4@gmail.com
 - 😄 Pronouns: Nothing
 - ⚡ Fun fact: Just Torture the Data , And it will confess to anything 😂 .
 
